@@ -1,7 +1,7 @@
 # RecipeBook-React
 RecipeBook-React is a simple and beginner-friendly React application that allows users to add and delete recipe names. This project is built using React functional components and Hooks, making it perfect for learning basic state management in React.
 
-## 🚀 Features
+## Features
 - Add new recipes
 - Delete existing recipes
 - Dynamic rendering using React state
